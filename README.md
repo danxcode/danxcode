@@ -29,11 +29,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanX-Gold&show_icons=true&theme=transparent&title_color=00EAFF&icon_color=00EAFF&text_color=94A3B8&border_color=00EAFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danxcode&show_icons=true&theme=transparent&title_color=00EAFF&icon_color=00EAFF&text_color=94A3B8&border_color=00EAFF" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX-Gold&layout=compact&theme=transparent&title_color=00EAFF&text_color=94A3B8&border_color=00EAFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxcode&layout=compact&theme=transparent&title_color=00EAFF&text_color=94A3B8&border_color=00EAFF" />
 </p>
 
 ---
